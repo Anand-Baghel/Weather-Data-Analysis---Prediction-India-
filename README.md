@@ -1,6 +1,6 @@
 # Weather Data Analysis & Prediction (India)
 
-[![Live Demo]((https://weather-data-analysis-prediction.streamlit.app/))](https://weather-data-analysis-prediction.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://weather-data-analysis-prediction.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Weather%20Data%20Analysis%20and%20Prediction-green)](https://github.com/Anand-Baghel/Weather-Data-Analysis---Prediction-India/Weather-Data-Analysis-and-Prediction)
 [![GitHub License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](LICENSE)
 
